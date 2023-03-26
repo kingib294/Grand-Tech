@@ -149,19 +149,19 @@
             <div  style="background-color: rgb(135, 188, 248);">
                 <center>
                     <h1 style="color:red;">Iphone</h1>
-                <img src=".\Img\oip.jpg" alt="ipone" class="pic">
+                <img src=".\Img\oip.jpg" alt="ipone" class="pic"/>
                 
                 <center><button id="buyNow">Add to cart</button></center>
                 <br>
                 
-                <img src=".\Img\pic1.jpg" class="pic">
+                <img src=".\Img\pic1.jpg" class="pic"/>
                 <center><button id="buyNow">Add to cart</button></center>
                     <br>
-                <img src=".\Img\pic2.jpg" class="pic">
+                <img src=".\Img\pic2.jpg" class="pic"/>
                 <center><button id="buyNow"> Add to cart</button></center>
                    <br>
 
-                <img src=".\Img\pic3.jpg" class="pic">
+                <img src=".\Img\pic3.jpg" class="pic"/>
                 <center><button id="buyNow">Add to cart</button></center>
                 </center>
             </div>
